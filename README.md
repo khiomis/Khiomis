@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub!
 
-<!--
-**khiomis/Khiomis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Kelvin Xisto**, and this is my space for side projects, personal experiments, and things I build for fun and learning.
 
-Here are some ideas to get you started:
+I go by **khiomis** here — this is where I let creativity and curiosity run free.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 What you'll find here:
+- 💡 Experimental apps & tools
+- 🎮 Game dev projects & creative coding
+- 🛠️ Personal open-source contributions
+- 🧰 Tech stacks I'm currently exploring
+
+---
+
+### 🚧 Currently Working On:
+- 🎮 A **2D game** using **Godot**
+- 📱 A **mobile app** built with **Flutter**
+
+---
+
+### 📫 Want to connect?
+- [LinkedIn](https://www.linkedin.com/in/kelvin-xisto/)
+- [Portfolio](https://github.com/khiomis) ← you're already here!
