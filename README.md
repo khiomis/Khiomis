@@ -14,10 +14,11 @@ I go by **khiomis** here — this is where I let creativity and curiosity run fr
 
 ### 🚧 Currently Working On:
 - 🎮 A **2D game** using **Godot**
-- 📱 A **mobile app** built with **Flutter**
+- 📱 A multiplatform **app** built with **Flutter** with the **backend** build with Golang
 
 ---
 
 ### 📫 Want to connect?
 - [LinkedIn](https://www.linkedin.com/in/kelvin-xisto/)
 - [Portfolio](https://github.com/khiomis) ← you're already here!
+If you're looking for my professional account, visit github.com/kelvinxs
