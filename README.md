@@ -21,4 +21,4 @@ I go by **khiomis** here — this is where I let creativity and curiosity run fr
 ### 📫 Want to connect?
 - [LinkedIn](https://www.linkedin.com/in/kelvin-xisto/)
 - [Portfolio](https://github.com/khiomis) ← you're already here!
-If you're looking for my professional account, visit github.com/kelvinxs
+- [Professional Git Account](https://github.com/kelvinxs)
